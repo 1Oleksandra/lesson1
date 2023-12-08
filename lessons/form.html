@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <link rel="shortcut icon" href="favicon.png"> -->
+        <link rel="stylesheet" type="text/css" href="nullstyle.css">
+        <link rel="stylesheet" type="text/css" href="style.css" >
+        <title>Form</title>
+    </head>
+    <body>
+        <header>
+             
+        </header>
+        <main class="wrapper account">
+            <div class="left-side">
+                <img src="/img/01.png" alt="main image">
+            </div>
+            <div class="right-side right-content" >
+                <a href="#" class="logo">Some brand</a>
+                <h1 class="form-title">Create an account</h1>
+                <p class="form-text">Let’s get started with your 30day free trial.</p>
+                <form action="#" method="post" class="account-form form">
+                    <div class="form-items">
+                        <input class="form-input" type="text" required name="username" placeholder="Username">
+                        <input class="form-input" type="text" required name="email" placeholder="Email">
+                        <input class="form-input" type="text" required name="password" placeholder="Password">
+                    </div>
+                    <div class="form-actions">
+                        <button class="form-button" type="submit" >Create account</button>
+                        <p class="form-or"><span>or</span></p>
+                        <button class="form-google" href="#" ><span>Sign up with Google</span></button>
+                    </div>
+                </form>
+                <div class="account-login">
+                    Already have an account?
+                   <p><a href="#" class="login-link">Log in</a></p>
+                   <button class="account-button" id="accountButton">welcome</button>
+                </div>
+            </div>
+            <div class="popup-welcome" id="welcome">
+                <div class="popup-inner">
+                    <h2>welcome</h2>
+                    <button class="popup-close" id="popupClose">close</button>
+                </div>
+
+            </div>
+        </main>
+        <script type="module" src="index.js"></script>
+    </body>
+</html>

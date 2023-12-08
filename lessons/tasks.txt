@@ -1,0 +1,64 @@
+lesson 0
+
+technikal interview
+
+lesson 1
+
+create form registration 
+
+lesson 2
+
+sources:
+https://www.w3schools.com/
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://www.freecodecamp.org/
+
+0. fix problem with mix & googlemeet  -
+1. SEO in HTML +
+2. reset & normalize css  +
+3. CDN  https://zahid.host/uk/cdn/  
+Content Delivery Network  +
+4. convention coder   +
+5. responsive layout  резинова верстка +
+6. devtool in Chrome +
+7. preprocesor Less, Sass, Scss +
+8. pseudo-classes  +
+9. metodology nameing (BEM, ... ) -
+
+lesson 3
+
+1. Selectors tags: tag, .class, #id, inline, !impotent; +
+2. Priority selector css: +
+3. Scss using general tools 
+4. metodology nameing (BEM, ... ) - and New technoliges naming -
+5. HTMLMediaElement
+ https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement
+6*. in script  triger on button => Welcome
+
+lesson 4
+
+1.postProcesor:  CssNext, Pleease, PrefixFree, PostCss
+2.metodology nameing new technoliges naming -  https://www.creativebloq.com/features/a-web-designers-guide-to-css-methodologies
+                                               https://valoremreply.com/post/5-css-methodologies/
+  ItCss
+  2.1 css modules
+3. opasity, hidden, none, position, Clip-path   https://devzone.org.ua/post/piat-sposobiv-prixovati-elementi-v-css
+4. generation UI design tool with AI:   https://www.figma.com/community/plugin/1227900767438159391/ai-designer  
+                                        https://uxplanet.org/10-ai-figma-plugins-every-ui-ux-designer-must-try-d71a9acff1e
+//temperary  https://www.jsdelivr.com/package/npm/modern-normalize
+5. terminal
+6. git navigation commands + run node
+
+
+lesson 5 (5.12.23) 
+
+1. Cube Css 
+2. Use css modules on buttom (example)
+3. git navigation commands + run node    git --help
+4. update on GitHub
+5. console.    https://dev.to/fatematzuhora/different-use-cases-of-console-log-you-should-use-when-debugging-javascript-30pf
+
+
+
+
+questions: 5
